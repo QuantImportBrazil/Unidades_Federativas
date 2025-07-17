@@ -1,3 +1,3 @@
 [MT]()
 
-[PR](https://quantimportbrazil.github.io/Paraná/)
+[PR](https://quantimportbrazil.github.io/PR/)
